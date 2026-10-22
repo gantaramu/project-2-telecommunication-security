@@ -1,0 +1,4 @@
+endpoint,http_status,interpretation
+/login/,200,Login page response
+/dashboard/,302,Unauthenticated dashboard response
+/,404,Root path response
