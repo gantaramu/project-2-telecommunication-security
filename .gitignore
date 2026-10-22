@@ -1,0 +1,10 @@
+certs/localhost.key
+.env
+**/.env
+**/__pycache__/
+**/*.pyc
+**/db.sqlite3
+*.bak
+*.before-logging
+app/secureapp/*.before-logging
+app/secureapp/urls.py.before-security-logging
